@@ -19,6 +19,6 @@ export const profile: Profile = {
   links: [
     { id: "github", title: "GitHub", url: "https://github.com/drhanlondon" },
     { id: "linkedin", title: "LinkedIn", url: "https://www.linkedin.com/in/seokhyun-han-851a17205/" },
-    { id: "facebook", title: "Facebook", url: "https://facebook.com/drhanlondon" },
+    { id: "x", title: "X", url: "https://x.com/seokhyun_han" },
   ],
 };

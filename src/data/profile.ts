@@ -18,7 +18,7 @@ export const profile: Profile = {
   image: "/LinkedIn_profile_photo_sample_smiling-300x300.jpg",
   links: [
     { id: "github", title: "GitHub", url: "https://github.com/drhanlondon" },
-    { id: "linkedin", title: "LinkedIn", url: "https://linkedin.com/in/drhanlondon" },
+    { id: "linkedin", title: "LinkedIn", url: "https://www.linkedin.com/in/seokhyun-han-851a17205/" },
     { id: "facebook", title: "Facebook", url: "https://facebook.com/drhanlondon" },
   ],
 };
